@@ -1,0 +1,29 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local SQLite databases
+*.db
+*.sqlite3
+
+# Node modules
+node_modules/
+dist/
+
+# System files
+.DS_Store
+
+# Data directories
+data/indexes/
+data/pdfs/
+data/fetched/
